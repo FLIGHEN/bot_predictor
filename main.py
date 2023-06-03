@@ -12,7 +12,7 @@ import aiofiles
 
 BOT_TOKEN = "6230729020:AAGYqxDdbBaUIE7kbvHRhBMLECbuKamCwAs"
 SAVE_FILENAME = "save.txt"
-DEFAULT_SCAN_DELAY = 1
+DEFAULT_SCAN_DELAY = 28800
 
 delay_sec_between_msgs = 3
 
